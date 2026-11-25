@@ -1,119 +1,244 @@
+
+<!-- ===================================================== -->
+<!-- ANUSHKA SINHA | BACKEND & CLOUD ENGINEER               -->
+<!-- Replace the deployment, LinkedIn and email links       -->
+<!-- only if any of these details have changed.             -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anushka%20Sinha&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Spring%20Boot%20%7C%20Java&descAlignY=58&descSize=18" width="100%"/>
+# Anushka Sinha
 
-</div>
+### Backend & Cloud Engineer
+
+**Building reliable backend systems, distributed applications
+and cloud-native infrastructure.**
 
 <br/>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C9CF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Java+%7C+REST+APIs;Building+scalable+systems+one+service+at+a+time)](https://git.io/typing-svg)
+<a href="https://github.com/anushkaasinha">
+  <img src="https://img.shields.io/badge/GitHub-anushkaasinha-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:anushkasinhalko14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+## 👋 About Me
 
-- 🎓 **B.E. Information Science Engineering** @ CMRIT, Bangalore (2023–2027) — CGPA: **8.60**
-- 🔭 Currently building projects with **Spring Boot** — microservices, payment systems, and project management tools
-- 🌱 Deepening expertise in **Microservices**, **Spring Security**, and **System Design**
-- 💼 Former **Software Engineering Intern (Backend)** @ QuadB — built 30+ RESTful APIs, CI/CD pipelines, and 85%+ test coverage
-- 🏆 **2nd Place** at Full Stack Hackathon (CMRIT) · Top 500 in CodeRush 3.0 (12,000+ participants) · 400+ LeetCode/GFG problems solved
-- 🥈 Silver Medalist — National Mathematics Olympiad
-- ⚡ **Fun fact:** I love picking up new things — whether it's a random fact, a new sport, a recipe, or a skill. If it's something I haven't tried before, I'm already interested!
-- 📫 Reach me at **anushkasinhalko14@gmail.com**
+I'm an Information Science Engineering student at CMR Institute
+of Technology, Bangalore, interested in building reliable,
+secure and scalable software systems.
 
----
+My primary focus is **Backend Engineering and Cloud Computing**.
+I enjoy working on the engineering problems behind applications:
+system reliability, asynchronous processing, API security,
+database consistency and cloud infrastructure.
 
-### 🔗 Connect with Me
+Currently focusing on:
 
-<a href="https://www.linkedin.com/in/anushka-sinha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:anushkasinhalko14@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/anushkaasinha" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- Designing backend services using Java and Spring Boot.
+- Building distributed and asynchronous processing systems.
+- Deploying containerized applications and working with AWS.
+- Automating infrastructure and integrating security into CI/CD.
+- Understanding system design, networking and operating systems.
+
+I'm interested in opportunities across Backend Engineering,
+Cloud Engineering and Infrastructure Engineering.
 
 ---
 
-### 🛠️ Tech Stack
+## ⚙️ Technical Stack
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend Engineering
 
-**Frameworks & Libraries**
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express&perline=5" />
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- REST API design
+- Spring Boot & Spring Security
+- Hibernate / JPA
+- Authentication & authorization
+- Microservices fundamentals
+- Asynchronous processing
 
-**Databases & Tools**
+</td>
+<td width="50%" valign="top">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,jenkins&perline=5" />
+
+- AWS (EC2, IAM, S3, Lambda, SNS)
+- Docker & Docker Compose
+- Infrastructure as Code
+- CI/CD pipelines
+- Linux & Bash
+- Cloud security fundamentals
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Databases & Messaging
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,rabbitmq&perline=5" />
+
+- PostgreSQL & MySQL
+- MongoDB
+- Database design
+- Transactions & indexing
+- RabbitMQ
+
+</td>
+<td width="50%" valign="top">
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven,react&perline=5" />
+
+- Git & GitHub
+- Maven
+- Postman
+- REST API testing
+- JUnit & Mockito
+- Prometheus / Grafana fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🧠 What I Know & How Well
+## 🚀 Featured Engineering Projects
 
-| Skill | Proficiency |
+### 01. Payment Orchestration Service
+
+**A resilient payment processing backend with multi-gateway
+routing and transaction integrity.**
+
+`Java 21` `Spring Boot 3` `Spring Security` `JPA`
+`Docker` `JUnit 5`
+
+- Implemented idempotent payment APIs to prevent duplicate
+  transactions.
+- Designed multi-gateway routing with failover and circuit
+  breaker mechanisms.
+- Implemented retry orchestration with exponential backoff
+  and jitter.
+- Built HMAC-SHA256 signed webhook delivery with retry and
+  dead-letter handling.
+- Implemented a double-entry ledger and payment reconciliation.
+- Added merchant/admin authentication and API-level security.
+
+**Engineering concepts:** Fault tolerance · Idempotency ·
+Concurrency · Transaction integrity · API security
+
+[Repository](https://github.com/anushkaasinha/payment-orchestration-service)
+· [Live Demo](YOUR_PAYMENT_DEMO_URL)
+
+---
+
+### 02. Distributed Job Processing Platform
+
+**An asynchronous job processing system designed to separate
+job submission from execution.**
+
+`Java` `Spring Boot` `RabbitMQ` `PostgreSQL` `Docker`
+
+- Designed job submission and execution workflows.
+- Explored asynchronous processing and worker-based execution.
+- Focused on job lifecycle management and failure handling.
+- Containerized the application and supporting services.
+
+**Engineering concepts:** Distributed processing ·
+Message queues · Background workers · Reliability
+
+[Repository](https://github.com/anushkaasinha/distributed-job-processing-platform)
+
+---
+
+### 03. Cloud & DevSecOps Automation
+
+**Cloud infrastructure and security automation using AWS
+and Infrastructure as Code.**
+
+`AWS` `Terraform` `Docker` `Python` `CI/CD`
+
+- Worked with AWS IAM, EC2, security groups and cloud services.
+- Explored least-privilege access and secure secret management.
+- Worked with infrastructure automation using Terraform.
+- Explored container security scanning and DevSecOps practices.
+
+**Engineering concepts:** Cloud security · IAM ·
+Infrastructure as Code · Automation · DevSecOps
+
+[Repository](YOUR_CLOUD_PROJECT_REPOSITORY_URL)
+
+---
+
+### 04. HireAI Matcher
+
+**An AI-assisted application matching system.**
+
+`Python` `Backend APIs` `Database`
+
+[Repository](https://github.com/anushkaasinha/hireai-matcher)
+
+---
+
+## 🧠 Engineering Interests
+
+| Domain | Areas of Interest |
 |---|---|
-| Java | ████████████████████ 95% |
-| Spring Boot | ███████████████████░ 90% |
-| Spring Security + JWT | ██████████████████░░ 85% |
-| REST API Design | ███████████████████░ 90% |
-| PostgreSQL / MySQL | █████████████████░░░ 80% |
-| React | ████████████░░░░░░░░ 60% |
-| Docker | ████████████░░░░░░░░ 60% |
-| Python | ███████████░░░░░░░░░ 55% |
+| Backend Engineering | API design, authentication, transactions, microservices |
+| Distributed Systems | Message queues, retries, concurrency, fault tolerance |
+| Cloud Computing | AWS, networking, IAM, infrastructure automation |
+| DevSecOps | CI/CD, container scanning, secrets management |
+| Computer Science | Operating systems, DBMS, computer networks, DSA |
 
 ---
 
-### 💡 Core Concepts
+## 🏆 Achievements
 
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005C84?style=flat-square&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Role Based Access Control](https://img.shields.io/badge/RBAC-DC382D?style=flat-square&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-ED8B00?style=flat-square&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-7B68EE?style=flat-square&logoColor=white)
-![MVC Architecture](https://img.shields.io/badge/MVC-59666C?style=flat-square&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Concurrency%20%26%20Multithreading-2496ED?style=flat-square&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=flat-square&logo=githubactions&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF6C37?style=flat-square&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD%20%2F%20JUnit5-25A162?style=flat-square&logoColor=white)
-![Idempotency](https://img.shields.io/badge/Idempotency-316192?style=flat-square&logoColor=white)
+- 2nd Place — Full Stack Hackathon, CMRIT.
+- Top 500 — CodeRush 3.0 (12,000+ participants).
+- Solved 400+ problems across LeetCode and GeeksforGeeks.
+- AWS Academy Graduate — Cloud Foundations.
 
 ---
 
-### 🚀 Featured Projects
+## 📊 GitHub Activity
 
-| Project | Tech | Highlights |
-|---|---|---|
-| 💳 **Payment Orchestration Service** | Spring Boot, Spring Security, JPA | Idempotent APIs, double-entry ledger, webhook retry with exponential backoff |
-| 📋 **TaskFlow – Project Management App** | Spring Boot, React, PostgreSQL, JWT | Full-stack, role-based auth, normalized schema, pagination & filtering |
-| 💰 **Personal Finance Tracker** | Spring Boot, MySQL, REST APIs | Budget tracking, overspend alerts, 80%+ test coverage |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anushkaasinha&show_icons=true&hide_border=true&theme=transparent" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkaasinha&layout=compact&hide_border=true&theme=transparent" height="165" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+### Let's Build Something Meaningful.
+
+Interested in backend systems, cloud infrastructure,
+distributed computing and engineering challenges.
+
+**Open to Backend & Cloud Engineering Opportunities.**
+
+<a href="mailto:anushkasinhalko14@gmail.com">Get in touch</a>
 
 </div>
